@@ -367,6 +367,10 @@ negotiator@0.6.1:
   version "0.6.1"
   resolved "https://registry.yarnpkg.com/negotiator/-/negotiator-0.6.1.tgz#2b327184e8992101177b28563fb5e7102acd0ca9"
 
+node-requestify@^0.0.1:
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/node-requestify/-/node-requestify-0.0.1.tgz#0ebc5920630575fc78ec0250a2a32bd28e519990"
+
 object-assign@^4.0.1, object-assign@^4.1.0:
   version "4.1.1"
   resolved "https://registry.yarnpkg.com/object-assign/-/object-assign-4.1.1.tgz#2109adc7965887cfc05cbbd442cac8bfbb360863"
